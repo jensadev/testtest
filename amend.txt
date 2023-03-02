@@ -1,2 +1,7 @@
 Men den var tom och fick innehåll.
+<<<<<<< HEAD
 Test
+=======
+
+Sicken tur.
+>>>>>>> 8c4cc460fe1c3afcc6246ffb400affac8f48de0d
